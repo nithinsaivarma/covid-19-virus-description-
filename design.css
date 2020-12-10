@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  font-family:'Merriweather', serif;
+}
+.creta{
+  text-align: center;
+  color:#ff6f3c;
+
+}
+.audi{
+  color:#28df99;
+}
+.bmw{
+  text-align: center;
+  color:#ff6f3c;
+}
+.bentley{
+  color:#28df99;
+}
+.honda{
+  color: #9ad3bc;
+}
